@@ -1,7 +1,7 @@
-# Python-BootCamp
+# C++-BootCamp
 Each Day Learn one SECTION
 # Section 1
-basic of python from Vrriables to Strings operation
+basic of C++ from Vrriables to Strings operation
 # secton 2
 Logic and Conditional Flow in C++
 # section 3
